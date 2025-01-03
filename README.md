@@ -1,9 +1,9 @@
 # Simple CRUD Application for Student Data
-Purwadhika Data Science Capstone Project Module 1
+Purwadhika Data Science Capstone Project Module 1: Python
 
 **Introduction**
 
-This project is a simple CRUD (Create, Read, Update, Delete) application designed to manage student data. It incorporates role-based access control and additional features to enhance usability and data management. The application allows administrators and students to interact with the data based on their roles.
+This project is a simple CRUD (Create, Read, Update, Delete) application using python designed to manage student data. It incorporates role-based access control and additional features to enhance usability and data management. The application allows administrators and students to interact with the data based on their roles.
 
 **Features**
 
